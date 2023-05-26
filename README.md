@@ -11,4 +11,6 @@ So without futher ado: **Let's SQL!**
 Here is the list of all the questions solved during this challenge from Interview Query. Please note that the code provided is for PostgreSQL. 
 
 - **DAY 1: Monthly Customer report by Amazon**  
-- **DAY 2: Download Facts by Microsoft** 
+- **DAY 2: Download Facts by Microsoft**  
+- **DAY 3: Manager Team Sizes by Amazon**  
+- **DAY 4: Last Transaction by Facebook**  
