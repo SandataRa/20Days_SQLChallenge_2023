@@ -15,3 +15,4 @@ Here is the list of all the questions solved during this challenge from Intervie
 - **DAY 3: Manager Team Sizes by Amazon**  
 - **DAY 4: Last Transaction by Facebook**  
 - **DAY 5: Top 3 Salaries by Google**  
+- **DAY 6: Search Ranking by Facebook**  
