@@ -4,4 +4,4 @@
   
 ## Results  
   
-![Results of the day](Results_of_the_day.png)
+![Results of the day](Results_of_the_day.JPG)
