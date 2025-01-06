@@ -16,4 +16,5 @@ Here is the list of all the questions solved during this challenge from Intervie
 - **DAY 4: Last Transaction by Facebook**  
 - **DAY 5: Top 3 Salaries by Google**  
 - **DAY 6: Search Ranking by Facebook** 
-- **DAY 7: Cumulative Distribution by Nagarro**  
+- **DAY 7: Cumulative Distribution by Nagarro**
+- **DAY 8: Rolling Bank Transactions by Amazon**  
